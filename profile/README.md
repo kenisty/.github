@@ -1,7 +1,7 @@
 # Kenisty Organization
 
 ### Software Architecture
-![kenisty_architecture](./architecture.jpg)
+![kenisty_architecture](../media/architecture.jpg)
 
 - 🟨 API service + API database
 - 🟨 Frontend application
